@@ -19,5 +19,4 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Output folders
-output/
+
