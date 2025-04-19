@@ -14,6 +14,6 @@ for line in lines:
 
 top10 = counter.most_common(10)
 
-print("🔝 Top 10 najčešće detektovanih objekata:")
+print("Top 10 Most Frequently Detected Objects:")
 for label, total in top10:
     print(f"{label}: {total}")
